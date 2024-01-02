@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Dustin. I'm a new software developer. 
+I am currently a student at Tech Elevator, where 
+I am specializing in Java programming. 

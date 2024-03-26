@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 My name is Dustin. I'm a new software developer. 
 I am currently a student at Tech Elevator, where 
-I am specializing in Java programming. 
+I am learning full-stack development, with a 
+focus on Java programming. 

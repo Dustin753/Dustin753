@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Dustin. I'm a new software developer. 
-I am currently a student at Tech Elevator, where 
-I am learning full-stack development, with a 
-focus on Java programming. 
+My name is Dustin. I'm a software developer. I can 
+do full-stack development; however, I have a passion
+for back-end. I love working with Spring Boot and
+SQL, and I strive to be a subject-matter expert
+in Java.

@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Dustin. I'm a software developer. I can 
-do full-stack development; however, I have a passion
-for back-end. I love working with Spring Boot and
-SQL, and I strive to be a subject-matter expert
-in Java.
+My name is Dustin. I'm a software developer. I code for the
+love of it. I'm currently learning C++ and want to get into
+game design. Coding is an endless mountain climb, and I love
+never being able to see the peak. 🧗‍♂️⛰️
